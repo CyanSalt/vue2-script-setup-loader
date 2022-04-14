@@ -43,6 +43,10 @@ module.exports = {
           // Add it here
           {
             loader: 'vue2-script-setup-loader',
+            options: {
+              // Enable reactivity transform
+              reactivityTransform: true
+            },
           },
         ],
       },
