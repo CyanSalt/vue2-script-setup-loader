@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/CyanSalt/vue2-script-setup-loader#readme",
   "dependencies": {
-    "loader-utils": "^2.0.2"
+    "loader-utils": "^2.0.2",
+    "unplugin-vue2-script-setup": "^0.10.2"
   },
   "devDependencies": {
     "@cyansalt/eslint-config-preset": "^1.5.0",
