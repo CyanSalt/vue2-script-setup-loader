@@ -1,5 +1,11 @@
 # vue2-script-setup-loader
 
+**NOTICE: This package has strong limitations and it is recommended to use [parallelize-webpack-unplugin](https://github.com/CyanSalt/parallelize-webpack-unplugin) instead.**
+
+**In addition, since `unplugin-vue2-script-setup` is no longer maintained, if you expect to use it under Vue 2.7, it is recommended to use `parallelize-webpack-unplugin` with [`@vue-macros/reactivity-transform`](https://vue-macros.sxzz.moe/features/reactivity-transform.html)**
+
+---
+
 Bring [`<script setup>`](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to Vue 2.
 
 It's really just another wrapper for [`unplugin-vue2-script-setup`](https://github.com/antfu/unplugin-vue2-script-setup).
