@@ -2,9 +2,11 @@
 
 [![npm](https://img.shields.io/npm/v/vue2-script-setup-loader.svg)](https://www.npmjs.com/package/vue2-script-setup-loader)
 
-**NOTICE: This package has strong limitations and it is recommended to use [parallelize-webpack-unplugin](https://github.com/CyanSalt/parallelize-webpack-unplugin) instead.**
+> [!NOTE]
+> This package has strong limitations and it is recommended to use [parallelize-webpack-unplugin](https://github.com/CyanSalt/parallelize-webpack-unplugin) instead.
 
-**In addition, since `unplugin-vue2-script-setup` is no longer maintained, if you expect to use it under Vue 2.7, it is recommended to use `parallelize-webpack-unplugin` with [`@vue-macros/reactivity-transform`](https://vue-macros.sxzz.moe/features/reactivity-transform.html)**
+> [!NOTE]
+> In addition, since `unplugin-vue2-script-setup` is no longer maintained, if you expect to use it under Vue 2.7, it is recommended to use `parallelize-webpack-unplugin` with [`@vue-macros/reactivity-transform`](https://vue-macros.sxzz.moe/features/reactivity-transform.html)
 
 ---
 
